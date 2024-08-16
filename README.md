@@ -45,5 +45,14 @@ Circuit diagrams and pin configurations are included in the project files for ea
 - Schematics: Circuit diagrams and pin connections provided for replicating the setup.
 
   ## Project Images
+  ![Proje Logosu](images/image1.jpg)
+  ![Proje Logosu](images/image2.jpg)
+  ![Proje Logosu](images/image3.jpg)
+  ![Proje Logosu](images/image4.jpg)
+  ![Proje Logosu](images/image5.jpg)
+  ![Proje Logosu](images/image6.jpg)
+  ![Proje Logosu](images/image7.jpg)
+  ![Proje Logosu](images/image8.jpg)
+  ![Proje Logosu](images/image9.jpg)
   
 
