@@ -44,3 +44,6 @@ Circuit diagrams and pin configurations are included in the project files for ea
 - Libraries: Libraries: Includes LiquidCrystal_I2C.c and LiquidCrystal_I2C.h for LCD control. These libraries were originally designed for Arduino but have been modified and customized for AVR microcontrollers in Atmel Studio.
 - Schematics: Circuit diagrams and pin connections provided for replicating the setup.
 
+  ## Project Images
+  
+
